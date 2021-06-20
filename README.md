@@ -1,6 +1,6 @@
 # Dog-Breed-Finder
-Identifying the different breeds of dogs
-The jupyter Notebook is self explanatory and you can follw it to implement it.
+### Identifying the different breeds of dogs
+The jupyter Notebook is self explanatory and you can follow it to implement it.
 Link for the dataset used has been provided within the notebook itself.
 The classification problem has been tackled in 2 ways here:- 
 1: 120 class Classification

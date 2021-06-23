@@ -1,7 +1,7 @@
 # Dog-Breed-Finder
-
+![DogBreeds](dogbreed.jpeg)
 ### Identifying the different breeds of dogs
-- The jupyter Notebook is self explanatory and you can follow it to implement it.
+- The python notebook provided in this repository is self explanatory and you can follow it to implement it.
 - Link for the dataset used has been provided within the notebook itself.
 The classification problem has been tackled in 2 ways here:- 
 - 1: 120 class Classification
